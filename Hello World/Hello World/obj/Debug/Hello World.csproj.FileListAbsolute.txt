@@ -1,0 +1,6 @@
+C:\Projects\git\hello-world\Hello World\Hello World\bin\Hello World.dll.config
+C:\Projects\git\hello-world\Hello World\Hello World\bin\Hello World.dll
+C:\Projects\git\hello-world\Hello World\Hello World\bin\Hello World.pdb
+C:\Projects\git\hello-world\Hello World\Hello World\obj\Debug\Hello World.csprojResolveAssemblyReference.cache
+C:\Projects\git\hello-world\Hello World\Hello World\obj\Debug\Hello World.dll
+C:\Projects\git\hello-world\Hello World\Hello World\obj\Debug\Hello World.pdb
